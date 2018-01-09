@@ -17,7 +17,7 @@ The official Node.js library for Coinbase's [GDAX API](https://docs.gdax.com/).
 npm install gdax
 
 # from GitHub
-npm install coinbase/gdax-node
+npm install coinbase/gdax-node (needed for using Promises)
 ```
 
 You can learn about the API responses of each endpoint [by reading our
